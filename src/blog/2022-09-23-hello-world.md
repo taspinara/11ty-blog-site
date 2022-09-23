@@ -1,6 +1,9 @@
 ---
 title: Hello World
-description: My First Blog Post is "Hello World"
+description: My First Blog Post is "Hello World".. Lorem ipsum dolor sit amet
+  consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis
+  quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat.
+  Reprehenderit, distinctio aliquam?
 author: Ali TASPINAR
 date: 2022-09-23T04:49:34.257Z
 tags:
