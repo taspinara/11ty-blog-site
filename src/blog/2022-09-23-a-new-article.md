@@ -1,6 +1,6 @@
 ---
 title: A New Article
-author: Ali TASPINAR
+author: Kari O. Rourke
 date: 2022-09-23
 image: /assets/blog/article-5.jpg
 imageAlt: This is a test

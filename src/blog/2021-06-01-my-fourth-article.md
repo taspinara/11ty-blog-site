@@ -1,6 +1,6 @@
 ---
 title: My Fourth Article
-author: Kevin Powell
+author: Kari O. Rourke
 date: 2021-06-01
 tags: featured
 image: /assets/blog/article-4.jpg
